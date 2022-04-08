@@ -1,7 +1,7 @@
 // IPC Assignment //
 // Q.1 //
-// Write a program that creates a shared memory region and displays shared memory id and also
-print address at which shared area in this process starts from. //
+/* Write a program that creates a shared memory region and displays shared memory id and also
+print address at which shared area in this process starts from. */
 // MAHADEV G I //
 
 //****** Shared memeory read *******//
